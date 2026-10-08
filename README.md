@@ -1,2 +1,3 @@
-# exploratory_data_analysis_project
-An exploratory data analysis project focused on exploring the many dimensions and measures of the given dataset. From simple database and measures exploration to magnitude and ranking analysis the project covers all the basics of EDA. I hope you can learn something new from it, Cheers!
+# exploratory_and_advanced_analytics_project
+The project as the name suggests explores the data which includes the many dimensions and measures of the dataset and then performs basic and advanced analytics on the dataset. From simple database and measures exploration to magnitude and ranking analysis the project covers all the basics of EDA, then we do advanced analytics stuff like cumulative analysis, part-to-whole analysis, data segmentation among others and finally we create two reports AS VIEWS one for customers and one for products. The project covers many concepts of SQL covering the basic things as aggregations, case statement, joins and subqueries to more advanced techniques like window functions and common table expressions (ctes).
+I hope you can learn something new from the project, cheers!
